@@ -13,3 +13,4 @@ cache:
 
 script:
   - "echo start build"
+  - "chmod +x gradlew"
